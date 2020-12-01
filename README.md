@@ -1,3 +1,9 @@
+## 13. Project Stripe Payments Part 1
+### Referince link
+[react-stripe-button npm](https://www.npmjs.com/package/react-stripe-checkout)
+
+[react-stripe-checkout docs](https://github.com/azmenak/react-stripe-checkout)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
